@@ -1,20 +1,18 @@
 <div align="center">
 
 <!-- ============ ANIMATED BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20of%20Things&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdul%20Wasay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Software+Engineer+%7C+Problem+Solver;I+build+clean%2C+scalable+software;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Wasay+%F0%9F%91%8B;Software+Engineering+Student;Frontend+%26+JavaScript+Developer;Currently+Learning+React.js+%26+Node.js" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ============ CTA BUTTONS ============ -->
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://github.com/MrWasay7"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/MrWasay7?tab=repositories"><img src="https://img.shields.io/badge/Projects-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -24,25 +22,19 @@
 
 ## 🧠 About Me
 
-```txt
-const engineer = {
-    name: "YOUR_NAME",
-    title: "Software Engineer",
-    location: "YOUR_CITY, YOUR_COUNTRY",
-    education: "YOUR_DEGREE, YOUR_UNIVERSITY (YOUR_GRAD_YEAR)",
-    currentFocus: ["YOUR_CURRENT_FOCUS_1", "YOUR_CURRENT_FOCUS_2"],
-    philosophy: "Write code that is simple, scalable, and kind to the next person who reads it.",
-    funFact: "YOUR_FUN_FACT"
-};
-```
+I'm currently studying **BS Software Engineering at Hamdard University**, based in Karachi, Pakistan. Most of my time goes into learning web development and actually building things with it, rather than just reading about it.
 
-I'm a software engineer focused on **YOUR_DOMAIN (e.g. full-stack web development, ML systems, etc.)**. I care about clean architecture, thoughtful UX, and shipping software that actually solves problems — not just code that compiles.
+Right now I'm mostly working with **HTML, CSS, and JavaScript**, and I'm slowly moving into backend development. I also did an internship at **Coderatory Innovation**, which gave me a first real taste of working on things outside of university assignments.
 
-- 🔭 Currently working on **YOUR_CURRENT_PROJECT**
-- 🌱 Currently learning **YOUR_LEARNING_TOPIC**
-- 👯 Looking to collaborate on **YOUR_COLLAB_INTEREST**
-- 💬 Ask me about **YOUR_EXPERTISE_TOPICS**
-- ⚡ Fun fact: **YOUR_FUN_FACT**
+I like the frontend side of development a lot — getting a layout to look right, making it responsive, and paying attention to small UI/UX details. Alongside that, I've also worked with C and Java for data structures and problem-solving based projects during university coursework.
+
+I'm still early in this journey, so a lot of what I build right now is meant to help me learn — but I try to write clean code and actually finish what I start, rather than leaving projects half done.
+
+- 🔭 Currently building my **personal portfolio website** and this GitHub profile
+- 🌱 Currently learning **React.js and Node.js**
+- 🎯 Trying to get more comfortable with **backend development and MySQL**
+- 💬 Ask me about **HTML/CSS, JavaScript, or C++ OOP concepts**
+- 🎓 BS Software Engineering student at Hamdard University
 
 <br/>
 
@@ -54,38 +46,41 @@ I'm a software engineer focused on **YOUR_DOMAIN (e.g. full-stack web developmen
 
 **Languages**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- ADD/REMOVE badges for your actual languages -->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-8A2BE2?style=for-the-badge&logo=responsive&logoColor=white)
 
-**Backend**
+**Backend** *(learning)*
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases**
+**Database**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 <br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Currently Exploring**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SEO](https://img.shields.io/badge/Technical_SEO-8A2BE2?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Basics-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -97,24 +92,24 @@ I'm a software engineer focused on **YOUR_DOMAIN (e.g. full-stack web developmen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrWasay7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWasay7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrWasay7&theme=radical&hide_border=true&background=0d1117"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrWasay7&theme=redical&hide_border=true&bg_color=0d1117"/>
 
 </div>
-
-**Contribution Snake** — add this GitHub Action (see setup instructions below) and it will auto-generate a snake animation of your contribution graph.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/MrWasay7/MrWasay7/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+> ⚙️ The snake animation above needs the GitHub Action workflow set up once — see the setup note at the bottom of this README.
 
 <br/>
 
@@ -123,33 +118,63 @@ I'm a software engineer focused on **YOUR_DOMAIN (e.g. full-stack web developmen
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrWasay7&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=radical&hide_border=true&bg_color=0d1117"/>
-</a>
+### 🎓 Student Portal
+Console-based student management system built to practice core programming logic and file/record handling.
 
-</div>
+`C`
 
-> 💡 These auto-pull live stars/forks/language from your repos — just swap `PROJECT_ONE`, `PROJECT_TWO`, etc. for your actual repo names. Pin your best 4-6 repos.
+<a href="https://github.com/MrWasay7/student-portal"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Student Priority Support System (SPSS)
+A Java-based DSA project built around Linked Lists, a Priority Queue, and File Handling to manage support requests by priority.
+
+`Java` `Data Structures`
+
+<a href="https://github.com/MrWasay7/spss-java-project"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Portfolio Website
+My personal portfolio site — fully responsive, built from scratch to showcase my projects and skills.
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/MrWasay7/portfolio-website"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Database Management System Project
+A university project focused on designing and managing a relational database.
+
+`MySQL`
+
+<a href="https://github.com/MrWasay7/dbms-project"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+> 📝 Repo links above use my best guess at your repo names — if any of your actual repo names are different, just swap the URL in that project's badge link.
 
 <br/>
 
@@ -158,11 +183,12 @@ I'm a software engineer focused on **YOUR_DOMAIN (e.g. full-stack web developmen
 ## 🕰️ Timeline
 
 ```
-YOUR_GRAD_YEAR       🎓  Graduated — YOUR_DEGREE, YOUR_UNIVERSITY
-YOUR_YEAR            💼  YOUR_ROLE at YOUR_COMPANY
-YOUR_YEAR            🏅  Earned YOUR_CERTIFICATION
-YOUR_YEAR            🚀  Shipped YOUR_MAJOR_PROJECT
-YOUR_YEAR            🌟  YOUR_MILESTONE
+2024   🎓  Started BS Software Engineering at Hamdard University
+2025   💼  Internship at Coderatory Innovation
+2025   🖥️  Built Student Portal (console-based, C)
+2025   📋  Built Student Priority Support System (Java, DSA)
+2026   🌱  Learning React.js with Node.js
+2026   🚀  Building my professional GitHub profile and personal portfolio
 ```
 
 <br/>
@@ -171,9 +197,10 @@ YOUR_YEAR            🌟  YOUR_MILESTONE
 
 ## 🎯 Current Focus
 
-| 📖 Learning | 🛠️ Building | 🔍 Exploring | 🎯 2026 Goal |
+| 📖 Learning | 🛠️ Building | 🔍 Exploring | 🎯 Goal |
 |---|---|---|---|
-| YOUR_LEARNING_TOPIC | YOUR_BUILD_PROJECT | YOUR_EXPLORE_TOPIC | YOUR_YEARLY_GOAL |
+| React.js, Next.js | Personal Portfolio Website | Backend (Node.js, MySQL, MongoDB) | Get comfortable across the full stack |
+| Technical SEO | This GitHub Profile | Modern UI/UX basics | Contribute to open source |
 
 <br/>
 
@@ -181,9 +208,10 @@ YOUR_YEAR            🌟  YOUR_MILESTONE
 
 ## 🤝 Open Source
 
-- 🔀 Active contributor to **YOUR_OSS_PROJECT**
-- 🐛 Reported/fixed issues in **YOUR_OSS_PROJECT_2**
-- 💬 Participate in discussions around **YOUR_OSS_TOPIC**
+- 🔍 Looking for beginner-friendly open-source projects to start contributing to
+- 📚 Learning proper Git workflows (branching, PRs, code review)
+- 🤝 Interested in collaborative development and working with other developers
+- 🏗️ Building my own projects to strengthen my portfolio in the meantime
 
 <br/>
 
@@ -191,24 +219,33 @@ YOUR_YEAR            🌟  YOUR_MILESTONE
 
 ## 💭 Philosophy
 
-> "YOUR_PERSONAL_QUOTE_ABOUT_ENGINEERING"
-
-I believe in clean, readable code, relentless problem-solving, and shipping software that respects the people who use it — and the people who maintain it after me.
+> "I don't have everything figured out yet, and that's fine — every project I build teaches me something I didn't know before. My goal is to keep showing up, write code I'm not embarrassed by, and get a little better each time."
 
 <br/>
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Goals
+
+- ✅ Become a professional Software Engineer
+- ✅ Master frontend development
+- ✅ Learn backend development properly
+- ✅ Contribute to open source projects
+- ✅ Build high-quality, real-world software
+- ✅ Keep strengthening this GitHub portfolio
+- ✅ Never stop learning
+
+<br/>
+
+---
+
+## 📫 Reach Out
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+I'm always open to connecting with other developers, collaborating on projects, or just talking about code.
+
+<a href="https://github.com/MrWasay7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -218,12 +255,12 @@ I believe in clean, readable code, relentless problem-solving, and shipping soft
 
 <div align="center">
 
-*"YOUR_FOOTER_QUOTE"*
+*"Still learning, still building, still improving."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8a2be2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8a2be2)
+![Profile Views](https://komarev.com/ghpvc/?username=MrWasay7&color=8a2be2&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MrWasay7?style=for-the-badge&color=8a2be2)
 
-**Made with ❤️ and ☕ by YOUR_NAME**
+**Made with ❤️ and ☕ by Abdul Wasay**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
