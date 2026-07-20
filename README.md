@@ -174,7 +174,7 @@ A university project focused on designing and managing a relational database.
 </tr>
 </table>
 
-> 📝 Repo links above use my best guess at your repo names — if any of your actual repo names are different, just swap the URL in that project's badge link.
+> 📝 Repo links
 
 <br/>
 
